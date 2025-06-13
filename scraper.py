@@ -1,3 +1,9 @@
+"""
+Autor: Kukasek23
+Email:kukasek2@seznam.cz
+"""
+
+
 import requests
 from bs4 import BeautifulSoup as BS
 import csv
