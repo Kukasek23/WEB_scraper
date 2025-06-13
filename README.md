@@ -26,8 +26,6 @@ Tento Python skript slouží k automatickému stahování (scrapování) dat o v
 ###Požadavky a instalace:
 - Před spuštěním se ujistěte, že máte nainstalované potřebné knihovny uvedené v souboru `requirements.txt`.
 - Instalaci potřebných knihoven provedete v příkazovém řádku nebo terminálu ve stejném adresáři jako váš script a soubor `requirements.txt` spuštěním příkazu:
-  pip install -r requirements.txt
-  
 ```bash
 pip install -r requirements.txt
 
